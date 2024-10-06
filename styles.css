@@ -1,0 +1,88 @@
+img {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    border-radius: 50%
+
+  }
+
+  body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #fa89ab;
+    }
+
+
+    .container {
+      max-width: 800px;
+      margin: 20px auto;
+      background-color: #e8b05c;
+      padding: 20px;
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    }
+    header {
+      text-align: center;
+      padding-bottom: 20px;
+      border-bottom: 2px solid #333;
+    }
+    table{
+      background-color: #333;
+      border-radius: 10%;
+      display: block;
+    }
+
+    header h1 {
+      margin: 0;
+      font-size: 36px;
+    }
+
+
+    header p {
+      font-size: 16px;
+      color: #555;
+    }
+    .about {
+      padding: 20px 0;
+    }
+
+
+    .about h2 {
+      font-size: 24px;
+      border-bottom: 1px solid #ddd;
+      padding-bottom: 10px;
+    }
+
+
+    .about p {
+      font-size: 16px;
+      line-height: 1.5;
+      color: #666;
+    }
+  .skills h2 {
+      font-size: 24px;
+      border-bottom: 1px solid #ddd;
+      padding-bottom: 10px;
+    }
+
+
+    .skills ul {
+      list-style-type: none;
+      padding: 0;
+    }
+
+
+    .skills li {
+      font-size: 16px;
+      padding: 5px 0;
+    }
+    .experience h2 {
+      font-size: 24px;
+      border-bottom: 1px solid #ddd;
+      padding-bottom: 10px;
+    }
+
+
+    .job {
+      padding: 10px 0;
+    }
